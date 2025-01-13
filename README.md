@@ -26,31 +26,40 @@ _Feel free to check out these repos on my GitHub!_
 ## 🛠️ Tech Stack
 
 #### Languages:
+<p float="left">
 <img src="assets/languages/java.svg" alt="Java" width="100" height="100">
 <img src="assets/languages/c.svg" alt="C" width="100" height="100">
 <img src="assets/languages/c-plusplus.svg" alt="C++" width="100" height="100">
 <img src="assets/languages/javascript.svg" alt="JavaScript" width="100" height="100">
 <img src="assets/languages/typescript.svg" alt="TypeScript" width="100" height="100">
+</p>
 
 #### Major Frameworks & Libraries:
+<p float="left">
 <img src="assets/frameworks/spring.svg" alt="Spring" width="100" height="100">
 <img src="assets/frameworks/hibernate-icon.svg" alt="JPA/Hibernate" width="100" height="100">
 <img src="assets/web/svelte.svg" alt="Svelte" width="100" height="100">
+</p>
 
 #### Databases:
+<p float="left">
 <img src="assets/databases/postgresql.svg" alt="Postgres" width="100" height="100">
 <img src="assets/databases/mysql.svg" alt="MySQL" width="100" height="100">
+</p>
 
 #### Operating Systems:
+<p float="left">
 <img src="assets/platforms/linux.svg" alt="Linux Tux" width="100" height="100">
 <img src="assets/platforms/windows.svg" alt="Windows" width="100" height="100">
+</p>
 
 #### Tools:
+<p float="left">
 <img src="assets/editors/intellijidea.svg" alt="Intellij" width="100" height="100">
 <img src="assets/editors/micro-logo-mark.svg" alt="Micro" width="100" height="100">
 <img src="assets/editors/vscode.svg" alt="Visual Studio Code" width="100" height="100">
 <img src="assets/editors/visual-studio.svg" alt="Visual Studio" width="100" height="100">
-
+</p>
 
 ## 🎮 Hobbies
 
