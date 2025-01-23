@@ -16,8 +16,8 @@ I’m still early in my journey, but I value collaboration and clear communicati
 ## 🌟 Featured Projects
 
 Here are some projects that I'm particularly proud of:
-- **[Clan Tracker](https://github.com/Th3-Hero/clan-tracker):** A backend system for collecting and analyzing real-time driving data, including speed, weather, and driving events like harsh braking.
-- **[Event Bot](https://github.com/Th3-Hero/EventBot):** An event management system that helps track academic milestones and sends automated reminders via Discord.
+- **[Member Activity Tracker (Clan Tracker)](https://github.com/Th3-Hero/clan-tracker):** A backend system for collecting and analyzing real-time driving data, including speed, weather, and driving events like harsh braking.
+- **[Academic Event Management System (Event Bot)](https://github.com/Th3-Hero/EventBot):** An event management system that helps track academic milestones and sends automated reminders via Discord.
 - **[DriveGuard](https://github.com/Th3-Hero/DriveGuard-Server):** A tool to track and manage World of Tanks clan activity, focusing on key metrics like battle statistics and member participation.
 - **[Task Tiger](https://github.com/Th3-Hero/TaskTiger):** A command line task management app written in C.
 
