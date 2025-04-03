@@ -9,6 +9,7 @@ What excites me most about software development is the continuous learning proce
 I’m still early in my journey, but I value collaboration and clear communication as key components of the process. Whether working on my own or in a team, I approach projects with curiosity and a willingness to grow.
 
 ### 🎓 Current Status
+
 - **Student:** Bachelor of Computer Science (Honours) at Conestoga College
 
 ## 🤝 Let's Connect on [LinkedIn](https://www.linkedin.com/in/william-paetz/)!
@@ -16,9 +17,10 @@ I’m still early in my journey, but I value collaboration and clear communicati
 ## 🌟 Featured Projects
 
 Here are some projects that I'm particularly proud of:
-- **[Member Activity Tracker (Clan Tracker)](https://github.com/Th3-Hero/clan-tracker):** A backend system for collecting and analyzing real-time driving data, including speed, weather, and driving events like harsh braking.
+
+- **[Member Activity Tracker (Clan Tracker)](https://github.com/Th3-Hero/clan-tracker):** A tool to track and manage World of Tanks clan activity, focusing on key metrics like battle statistics and member participation.
 - **[Academic Event Management System (Event Bot)](https://github.com/Th3-Hero/EventBot):** An event management system that helps track academic milestones and sends automated reminders via Discord.
-- **[DriveGuard](https://github.com/Th3-Hero/DriveGuard-Server):** A tool to track and manage World of Tanks clan activity, focusing on key metrics like battle statistics and member participation.
+- **[DriveGuard](https://github.com/Th3-Hero/DriveGuard-Server):** A backend system for collecting and analyzing real-time driving data, including speed, weather, and driving events like harsh braking.
 - **[Task Tiger](https://github.com/Th3-Hero/TaskTiger):** A command line task management app written in C.
 
 _Feel free to check out these repos on my GitHub!_
@@ -64,6 +66,7 @@ _Feel free to check out these repos on my GitHub!_
 ## 🎮 Hobbies
 
 When I'm not coding, I enjoy:
+
 - Gaming 🎮
 - Paintball 🎨💥
 - Reading Articles 📰
