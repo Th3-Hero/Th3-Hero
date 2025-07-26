@@ -1,6 +1,6 @@
-# Hi there, I'm William! 👋
+# Hi there, I'm William!
 
-## 🚀 About Me
+## About Me
 
 I'm a software development student with a growing passion for problem-solving and creating efficient solutions. My experience so far leans toward backend development, especially with Java and frameworks like Spring Boot, but I’ve also worked with front-end technologies like Svelte and TypeScript, giving me a solid foundation across the stack.
 
@@ -8,13 +8,13 @@ What excites me most about software development is the continuous learning proce
 
 I’m still early in my journey, but I value collaboration and clear communication as key components of the process. Whether working on my own or in a team, I approach projects with curiosity and a willingness to grow.
 
-### 🎓 Current Status
+### Current Status
 
 - **Student:** Bachelor of Computer Science (Honours) at Conestoga College
 
-## 🤝 Let's Connect on [LinkedIn](https://www.linkedin.com/in/william-paetz/)!
+## Let's Connect on [LinkedIn](https://www.linkedin.com/in/william-paetz/)!
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Here are some projects that I'm particularly proud of:
 
@@ -25,7 +25,7 @@ Here are some projects that I'm particularly proud of:
 
 _Feel free to check out these repos on my GitHub!_
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 #### Languages:
 <p float="left">
@@ -63,11 +63,11 @@ _Feel free to check out these repos on my GitHub!_
 <img src="assets/editors/visual-studio.svg" alt="Visual Studio" width="100" height="100">
 </p>
 
-## 🎮 Hobbies
+## Hobbies
 
 When I'm not coding, I enjoy:
 
-- Gaming 🎮
-- Paintball 🎨💥
-- Reading Articles 📰
-- Listening to music 🎧
+- Gaming
+- Paintball
+- Reading Articles
+- Listening to music
