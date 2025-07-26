@@ -12,7 +12,7 @@ I’m still early in my journey, but I value collaboration and clear communicati
 
 - **Student:** Bachelor of Computer Science (Honours) at Conestoga College
 
-## Let's Connect on [LinkedIn](https://www.linkedin.com/in/william-paetz/)!
+## Let's Connect on [LinkedIn](https://linkedin.william-paetz.com/)!
 
 ## Featured Projects
 
